@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Keynan Planner",
-    "slug": "keynan-planner",
+    "name": "ungio",
+    "slug": "ungio",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
